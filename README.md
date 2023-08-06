@@ -2,7 +2,7 @@
 
 Submitted by: **Giselle Reyes**
 
-**Change Screen Prework App** is an app that... [Provides the user with three labels and a button. When the user presses the button, the background of the screen changes to a random color.] 
+**Change Screen Prework App** is an app that Provides the user with three labels and a button. When the user presses the button, the background of the screen changes to a random color.
 
 Time spent: **3** hours spent in total
 
@@ -39,6 +39,8 @@ My favorite apps are:
         - Cheap
         - The instructionals are very well organized and give a beginner guitarist a roadmap of what to learn
         - Includes a metronome, tuner, and backtracks to play along
+        
+I am currenly a police officer in Miami, Fl and in my current posistion it is important that we know the latest BOLOS (Be on the look out). I would like to design an app where officers can share information on current bolos. Information is key in law enforcement and unfortunatly it becomes difficult to share information between different departments, even with all the technology available. By creating this app officers would add any BOLOS and be able to add any additional information and it would be available immediatly. 
         
 ## Notes
 
