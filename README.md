@@ -2,7 +2,7 @@
 
 Submitted by: **Giselle Reyes**
 
-**Change Screen Prework App** is an app that Provides the user with three labels and a button. When the user presses the button, the background of the screen changes to a random color.
+**Change Screen Prework App** is an app that provides the user with three labels and a button. When the user presses the button, the background of the screen changes to a random color.
 
 Time spent: **3** hours spent in total
 
@@ -10,7 +10,7 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] Users are see a screen with three labels and a button
+- [x] Users are seeing a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
@@ -44,7 +44,7 @@ I am currenly a police officer in Miami, Fl and in my current posistion it is im
         
 ## Notes
 
-I was confused on Step 4 connecting the UI to Logic. I did not understand the concept but after reviewing some other students questions on Slack, I was able to put the peices together.
+I was confused on Step 4 connecting the UI to Logic. I did not understand the concept but after reviewing some other students questions on Slack, I was able to put the peices together. 
 
 ## License
 
