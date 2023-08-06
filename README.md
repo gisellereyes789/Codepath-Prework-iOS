@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='![](https://i.imgur.com/M11QAVt.gif)' title='Video Walkthrough' width='2' alt='Video Walkthrough' />
+<img src=![](https://i.imgur.com/M11QAVt.gif)' title='Video Walkthrough' width='2' alt='Video Walkthrough' />
 
 GIF created with 
 [Kap](https://getkap.co/) for macOS
